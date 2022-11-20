@@ -46,9 +46,4 @@ if(isset($_POST['start'])){
     </div>
 
 </body>
-<!-- <script>
-       
-        function href(productId){
-            window.location.href = "http://jhonnysins.atwebpages.com/productpage/update.php?id="+productId;
-        }
-    </script> -->
+
